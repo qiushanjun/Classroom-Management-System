@@ -1,0 +1,5 @@
+name:陈蕾 date:1 interval:1 room:旧教207 status:2
+name:安启陆 date:3 interval:4 room:电一 status:1
+name:安启陆 date:5 interval:4 room:新平二 status:
+name:王康霖 date:2 interval:3 room:新平四 status:1
+name:王康霖 date:5 interval:6 room:旧教312 status:1
